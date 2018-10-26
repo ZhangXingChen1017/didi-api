@@ -34,6 +34,7 @@ POST
   }
 }
 ```
+
 ## 返回说明
 
 | 返回字段 | 字段类型 | 字段说明 |
@@ -42,4 +43,3 @@ POST
 | errmsg   | String   | 错误信息 |
 | data     | object   |          |
 | cityid   | int      | 城市id,  |
-
