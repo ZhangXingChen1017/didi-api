@@ -18,7 +18,7 @@ POST
 
 ## 返回结果
 
-```json
+```js
 {
     "errno": 0,
     "errmsg": "SUCCESS",
